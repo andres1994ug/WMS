@@ -7,7 +7,7 @@
 <template>
   <div class="mask">
     <div class="loading-title">
-      <div>ModernWMS</div>
+      <div>ERPYMEWMS</div>
     </div>
     <div class="loading-progress-bar">
       <v-progress-linear

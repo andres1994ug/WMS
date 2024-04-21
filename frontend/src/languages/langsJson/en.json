@@ -223,7 +223,7 @@
     }
   },
   "homepage": {
-    "subTitle": "Modern Warehouse Management System"
+    "subTitle": "Warehouse Management System"
   },
   "login": {
     "loginSuccess": "Login succeeded!",
@@ -234,7 +234,7 @@
     "registerTips": "No account? Click here to register!",
     "rememberTips": "Remember me",
     "userName": "UserName",
-    "welcomeTitle": "Welcome to ModernWMS!👋🏻"
+    "welcomeTitle": "Welcome to ERPYMEWMS!👋🏻"
   },
   "router": {
     "sideBar": {

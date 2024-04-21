@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div class="textBox">
-      <div class="mainTitle">ModernWMS</div>
+      <div class="mainTitle">ERPYMEWMS</div>
       <div class="subTitle">{{ i18n.global.t('homepage.subTitle') }}</div>
     </div>
     <div class="content">

@@ -8,15 +8,6 @@
       </v-breadcrumbs>
     </div>
     <div class="toolsBar">
-      <div class="gitSrc mr-4">
-        <img src="@/assets/img/gitee.png" alt="Gitee" @click="method.toGit('gitee')" />
-      </div>
-      <div class="gitSrc mr-4">
-        <img src="@/assets/img/github.png" alt="Gitee" @click="method.toGit('github')" />
-      </div>
-      <div class="gitSrc mr-4">
-        <img src="@/assets/img/apifox.png" alt="API" @click="method.toGit('apifox')" />
-      </div>
       <LanguagesSwitch />
       <v-menu>
         <template #activator="{ props }">
